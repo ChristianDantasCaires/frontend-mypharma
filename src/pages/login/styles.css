@@ -1,0 +1,16 @@
+form{
+    background-color: #fff;
+    background-image: url("https://as2.ftcdn.net/v2/jpg/03/20/56/85/1000_F_320568510_2D8LSfosSu7jaddwmCkmBwe4YcMNGzI8.jpg");
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 60vh;
+}
+
+.container-title{
+    position: relative;
+    bottom: 30px;
+}
+
+.container{
+    padding: 10px 0;
+}
